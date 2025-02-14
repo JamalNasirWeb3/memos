@@ -1,1 +1,7 @@
-fastapi[all]
+fastapi
+litellm
+opencv-python
+python-dotenv
+numpy
+uvicorn
+python-multipart
